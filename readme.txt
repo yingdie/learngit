@@ -4,8 +4,4 @@ git is a distributed version control system
 333333333333333333333333333333333333
 git is free software distributed under the GPL
 creating a new branch is quick
-<<<<<<< HEAD
-Creating a new branch is quick and simple
-=======
-creating a new branch is quick and simple
->>>>>>> featurel
+Creating a new branch is quick &  simple
